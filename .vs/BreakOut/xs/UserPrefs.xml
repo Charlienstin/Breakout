@@ -1,0 +1,20 @@
+﻿<Properties StartupConfiguration="{96F981D8-A23E-8122-F301-A6DAE320AF66}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/BottomWallScript.cs">
+    <Files>
+      <File FileName="Assets/Scripts/GameManager.cs" Line="10" Column="2" />
+      <File FileName="Assets/Scripts/ParamScript.cs" Line="23" Column="2" />
+      <File FileName="Assets/Scripts/NormalScript.cs" Line="12" Column="25" />
+      <File FileName="Assets/Scripts/PenetrateScript.cs" Line="15" Column="2" />
+      <File FileName="Assets/Scripts/HardScript.cs" Line="23" Column="2" />
+      <File FileName="Assets/Scripts/BottomWallScript.cs" Line="16" Column="9" />
+      <File FileName="Assets/GameOverScript.cs" Line="22" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
